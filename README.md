@@ -24,6 +24,12 @@ This project builds an end-to-end ETL pipeline to extract stock market data, tra
 - Data validation checks
 - SQL-based analytics
 
+  ## 🧠 Advanced Features
+- Incremental data loading
+- Modular ETL architecture
+- Logging for monitoring pipeline
+- Interactive dashboard using Streamlit
+
 ## ▶️ How to Run
 ```bash
 pip install pandas yfinance sqlalchemy
